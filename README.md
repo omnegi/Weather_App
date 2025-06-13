@@ -25,5 +25,4 @@ cd Weather_App
 npm install
 npm run dev
 
-<img src="./public/weather.png" width="600" alt="App Preview" />
 

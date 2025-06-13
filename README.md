@@ -24,3 +24,5 @@ git clone https://github.com/omnegi/Weather_App.git
 cd Weather_App
 npm install
 npm run dev
+
+![Weather App Preview](weather.png)
